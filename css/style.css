@@ -1,0 +1,27 @@
+/* TODO: Put your CSS code in here */
+
+body {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  padding: 10px;
+  margin: 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  margin: 20px;
+  padding: 20px;
+  background-color: aquamarine;
+  width: 600px;
+  height: 250px;
+  text-align: left;
+}
+
+form input {
+  margin: 10px 0;
+}
